@@ -16,5 +16,6 @@ SpringMVC官方文档：https://docs.spring.io/spring/docs/current/spring-framew
 JVM官方文档：https://docs.oracle.com/javase/specs/index.html<br>
 Dex字节码官方文档：https://source.android.google.cn/devices/tech/dalvik/dalvik-bytecode<br>
 fuchsia系统：https://fuchsia.dev/<br>
+Python教程：https://docs.microsoft.com/zh-cn/windows/python/index<br>
 
 渗透测试（安全）系列：https://www.lshack.cn/category/渗透周边/apt攻击与防御系列/page/2/<br>
